@@ -17,3 +17,5 @@ If user wants login to his account, program is asking his account number. After 
 3. Withdraw
 4. Transfer
 5. Log out
+
+Users can learn how much money they have in their accounts, put some money to their account and withdraw. Program also allows them to transfer money to another account. Account number is necessary in this step. After entering an account number, program tells you name of account's owners so you can be sure to send money.
