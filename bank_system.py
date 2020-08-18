@@ -1,6 +1,7 @@
 import random
 import os
 
+
 class Customer:
     def __init__(self, name, age, account_no, balance, account_number):
         self.name = name
